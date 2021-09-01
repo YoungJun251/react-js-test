@@ -1,0 +1,58 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "boardId": 1,
+      "boardTitle": "Title 1",
+      "boardContent": "Content 1"
+    },
+    {
+      "id": 2,
+      "boardId": 2,
+      "boardTitle": "Title 2",
+      "boardContent": "Content 2"
+    },
+    {
+      "id": 3,
+      "boardId": 3,
+      "boardTitle": "3",
+      "boardContent": "dasfsadfsklm"
+    },
+    {
+      "id": 4,
+      "boardId": 4,
+      "boardTitle": "4",
+      "boardContent": "ㄹㅁㄴㅇ"
+    },
+    {
+      "id": 5,
+      "boardId": 5,
+      "boardTitle": "",
+      "boardContent": ""
+    },
+    {
+      "id": 6,
+      "boardId": 6,
+      "boardTitle": "",
+      "boardContent": ""
+    },
+    {
+      "id": 7,
+      "boardId": 7,
+      "boardTitle": "",
+      "boardContent": ""
+    },
+    {
+      "id": 8,
+      "boardId": 8,
+      "boardTitle": "",
+      "boardContent": ""
+    },
+    {
+      "id": 9,
+      "boardId": 9,
+      "boardTitle": "",
+      "boardContent": ""
+    }
+  ]
+}
